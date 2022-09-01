@@ -1,0 +1,1 @@
+ReactDOM.render(<ul><li>clean</li><li>study</li></ul>, document.getElementById("root"));
